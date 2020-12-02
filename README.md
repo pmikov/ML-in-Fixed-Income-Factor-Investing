@@ -2,7 +2,7 @@
 
 Applications of Machine Learning in Fixed Income factor investing - finding the proper model and explanatory variables for deriving the Value factor.
 
-Completed on 27th of November as a final project for "Data Science" course at Software University (course 3 of 4 of "Artificial Intelligence" specialization)
+Completed on 27th of November as a final project for "Machine Learning" course at Software University (course 3 of 4 of "Artificial Intelligence" specialization)
 
 The projects consists of the following chapters:
 
