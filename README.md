@@ -4,7 +4,7 @@ Applications of Machine Learning in Fixed Income factor investing - finding the 
 
 Completed on 27th of November as a final project for "Machine Learning" course at Software University (course 3 of 4 of "Artificial Intelligence" specialization)
 
-The projects consists of the following chapters:
+The project consists of the following chapters:
 
 1. Factor Investing in Fixed Income Credit - Background
 
