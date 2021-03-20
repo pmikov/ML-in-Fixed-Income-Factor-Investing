@@ -1,5 +1,4 @@
-## [Machine Learniing in Fixed Income Factor Investing] (https://github.com/pmikov/ML-in-Fixed-Income-Factor-Investing/blob/main/ML%20in%20FI%20Factor%20Investing.ipynb)
-
+## [Machine Learniing in Fixed Income Factor Investing](https://github.com/pmikov/ML-in-Fixed-Income-Factor-Investing/blob/main/ML%20in%20FI%20Factor%20Investing.ipynb)
 Applications of Machine Learning in Fixed Income factor investing - finding the proper model and explanatory variables for deriving the Value factor.
 
 Completed on 27th of November as final project for "Machine Learning" course at Software University (Sep - Nov 2020)
@@ -17,16 +16,16 @@ Completed on 27th of November as final project for "Machine Learning" course at 
    - Linear Regression
    - Polynomial Regression
    - Decision Trees & Random Forests
-10. Models Fine-tuning & Improvements
+9. Models Fine-tuning & Improvements
    - Polynomial Regression
        - K-fold Cross Validation
        - Lasso Regularization
        - Principal Component Analysis (PCA)
-   - Random Forests
+    - Random Forests
       - Grid Search with K-fold Cross Validation
       - Gradient Boosting Regressor
-11. Final Model Evaluation on the Test Set
-12. Conclusions & Further Research
+10. Final Model Evaluation on the Test Set
+11. Conclusions & Further Research
 
 ### "Machine Learning" course at Software University covers the following topics (4-hour live Lectures + Labs):
 
@@ -41,5 +40,5 @@ Completed on 27th of November as final project for "Machine Learning" course at 
 9. Exam Preparation: End-to-end Project
 10. Course Summary
 
-Time Series Analysis - additional
-Model Deployment - additional
+- Time Series Analysis - additional
+- Model Deployment - additional
