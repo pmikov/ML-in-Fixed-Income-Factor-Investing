@@ -42,3 +42,5 @@ Completed on 27th of November as final project for "Machine Learning" course at 
 
 - Time Series Analysis - additional
 - Model Deployment - additional
+
+Repository with all live exercises & homework done for the course: https://github.com/pmikov/Machine-Learning-SoftUni---Labs
