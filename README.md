@@ -1,4 +1,4 @@
-## [Machine Learniing in Fixed Income Factor Investing](https://github.com/pmikov/ML-in-Fixed-Income-Factor-Investing/blob/main/ML%20in%20FI%20Factor%20Investing.ipynb)
+## [Machine Learning in Fixed Income Factor Investing](https://github.com/pmikov/ML-in-Fixed-Income-Factor-Investing/blob/main/ML%20in%20FI%20Factor%20Investing.ipynb)
 Applications of Machine Learning in Fixed Income factor investing - finding the proper model and explanatory variables for deriving the Value factor.
 
 Completed on 27th of November as final project for "Machine Learning" course at Software University (Sep - Nov 2020)
